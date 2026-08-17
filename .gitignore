@@ -1,0 +1,64 @@
+# Python相关文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 环境变量相关
+venv/
+ENV/
+env/
+.venv/
+
+# IDE编辑器相关
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 测试相关
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Ruff
+.ruff_cache/
+
+# Environment
+.env
+.env.local
+
+# Logs日志
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 某些文件
+.claude/
+.solomd/
+kodeagent_bak/
+CLAUDE.md
+
+# 本地设计 spec（不上传 GitHub，私人学习笔记）
+docs/
