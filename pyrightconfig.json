@@ -1,0 +1,6 @@
+{
+  "venvPath": "D:/miniconda3/envs",
+  "venv": "kode",
+  "pythonVersion": "3.10",
+  "typeCheckingMode": "basic"
+}
